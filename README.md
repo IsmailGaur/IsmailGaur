@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi there! I'm a 3rd-year B.Tech student passionate about Web Development and Java Development.<br><br>💻 I have experience working with:<br><br>Frontend: HTML, CSS, JavaScript<br>Backend: PHP, Java, Python<br>Databases: MySQL, PostgreSQL<br>🚀 I'm always exploring new technologies and building projects to improve my skills.<br><br>📌 Currently, I'm working on exciting web and Java-based projects.<br>📫 Let's connect!
+👋 Hi there! I'm a final-year B.Tech student passionate about Python and  Java Development and Web Development and.<br><br>💻 I have experience working with:<br><br>Frontend: HTML, CSS, JavaScript<br>Backend: PHP, Java, Python<br>Databases: MySQL, PostgreSQL<br>🚀 I'm always exploring new technologies and building projects to improve my skills.<br><br>📌 Currently, I'm working on exciting AI and Java-based projects.<br>📫 Let's connect!
 
 
 ## 🌐 Socials:
