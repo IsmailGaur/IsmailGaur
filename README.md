@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi there! I'm a final-year B.Tech student passionate about Python and  Java Development and Web Development and.<br><br>💻 I have experience working with:<br><br>Frontend: Python , HTML, CSS, JavaScript<br>Backend: PHP, Core Java, SpringBoot <br>Databases: MySQL, Mongodb<br>🚀 I'm always exploring new technologies and building projects to improve my skills.<br><br>📌 Currently, I'm working on exciting AI and Java-based projects.<br>📫 Let's connect!
+👋 Hi there! I'm a final-year B.Tech student passionate about Java Development and in the field of Artificial intelligence(AI).<br><br>💻 I have experience working with:<br><br>Frontend: Python , HTML, CSS, JavaScript<br>Backend:  Core Java, SpringBoot <br>Databases: MySQL, Mongodb<br>🚀 I'm always exploring new technologies and building projects to improve my skills.<br><br>📌 Currently, I'm working on exciting AI and Java-based projects.<br>📫 Let's connect!
 
 
 ## 🌐 Socials:
